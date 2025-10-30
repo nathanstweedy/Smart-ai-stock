@@ -1,1 +1,6 @@
-
+Flask==2.3.5
+yfinance==0.2.32
+pandas==2.1.1
+numpy==1.26.0
+textblob==0.17.1
+requests==2.31.0
